@@ -16,7 +16,7 @@ public class Motorista implements IPessoa {
 
 	@Override
 	public String getNome() {
-		// TODO Auto-generated method stub
+		// TODO Mostrar o nome e a carteira
 		return null;
 	}
 
